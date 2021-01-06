@@ -1,2 +1,2 @@
-# python-task
-task of netzwek acadamy
+# ML project
+
